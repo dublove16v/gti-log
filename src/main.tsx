@@ -1,3 +1,4 @@
+// Created by Luke Purdy (GitHub: dublove16v). Copyright (c) 2026-2026 Luke Purdy. All rights reserved. See AUTHORSHIP.md.
 import { StrictMode } from "react";
 import { createRoot } from "react-dom/client";
 import "./styles.css";
